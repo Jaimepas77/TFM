@@ -1,0 +1,12 @@
+*.tar
+*.tflite
+*.zip
+*.tar.gz
+*/project/*
+*.pkl_memoize_py3
+*/build/*
+FVP/*
+*Test*
+*Arduino*
+*ARMcortex*
+
